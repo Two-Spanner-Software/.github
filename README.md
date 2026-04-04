@@ -1,3 +1,6 @@
+# our quote bank <3
+funny stuff said whilst we are developing stuff lol
+
 dashcrikeydash is JOE
 
 developed with autism <3
