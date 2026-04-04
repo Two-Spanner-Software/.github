@@ -7,7 +7,7 @@ developed with autism <3
 
 ayo joe last night ate WE
 
-what if ayo was a crypto scam in the big 67
+what if ayo was a crypto scam in the big 67 but what if what matters was the ayo friends we made along the ayo way2
 
 
 
