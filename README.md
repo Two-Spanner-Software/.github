@@ -4,6 +4,10 @@ this repo is for our profile's readme file
 
 yes, we made a readme file, for a readme file. get over it.
 
+btw, it says that pxsl made most commits, because he did, we use live share.
+
+dashcrikeydash is a bum
+
 
 
 
