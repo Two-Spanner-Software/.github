@@ -8,6 +8,8 @@ btw, it says that pxsl made most commits, because he did, we use live share.
 
 dashcrikeydash is JOE
 
+developed with autism <3
+
 
 
 
