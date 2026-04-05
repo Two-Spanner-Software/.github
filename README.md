@@ -12,3 +12,5 @@ funny stuff said whilst we are developing stuff lol
 "unironically laughing at ayo2"
 
 "im adding a horse to this island..."
+
+"this chest has everything to tame a source"
