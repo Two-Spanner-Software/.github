@@ -1,18 +1,37 @@
 # 🔧 Two Spanner Software
 
-Hello! **TSS** is a small team of 2 developers, who try to make open-sourced, free software, which actually does cool stuff, and isn't just the same slop all over again.
+<p align="center">
+  <b>We build weird, useful, and slightly unhinged software.</b>
+</p>
 
-# Who Are We
+---
 
-We are a team of 2 developers, you can see our GitHub accounts below :)
+## 👋 About Us
 
-@PxslGames
-@dashcrikeydash
+**TSS** is a small team of 2 developers creating open-source, free software that actually does cool stuff — not the same recycled “slop” you see everywhere.
 
-# Links
+We focus on:
+- Useful tools
+- Experimental projects
+- Fun / chaotic ideas
 
-[Discord](https://discord.gg/YtQdrkxfg7)
-[GitHub](https://github.com/Two-Spanner-Software)
-[YouTube](https://youtube.com/@two-spanner-software)
+---
 
-Thanks for supporting us <3
+## 👥 Team
+
+- @PxslGames  
+- @dashcrikeydash  
+
+---
+
+## 🌐 Links
+
+- 💬 Discord: https://discord.gg/YtQdrkxfg7  
+- 🧑‍💻 GitHub: https://github.com/Two-Spanner-Software  
+- 📺 YouTube: https://youtube.com/@two-spanner-software  
+
+---
+
+<p align="center">
+  <b>Thanks for supporting us ❤️</b>
+</p>
