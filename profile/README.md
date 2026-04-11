@@ -8,7 +8,7 @@
 
 ## 👋 About Us
 
-**TSS** is a small team of 2 developers creating open-source, free software that actually does cool stuff — not the same recycled “slop” you see everywhere.
+**TSS** is a small team of 2 developers creating open-source, free software that actually does cool stuff - not the same recycled “slop” you see everywhere.
 
 We focus on:
 - Useful tools
