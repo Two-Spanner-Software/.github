@@ -14,3 +14,6 @@ funny stuff said whilst we are developing stuff lol
 "im adding a horse to this island..."
 
 "this chest has everything to tame a source"
+
+"im turning you into mince meat" - pxsl
+"yes please..." - dash
